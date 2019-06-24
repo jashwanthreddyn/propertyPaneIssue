@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="test-wp-client-side-solution" ProductID="91d21169-d336-4f97-9297-5140be63b6b8" Version="1.0.0.0" SharePointMinVersion="16.0.0.0" IsClientSideSolution="true" IsDomainIsolated="true"><Properties><Title>test-wp-client-side-solution</Title></Properties></App>
